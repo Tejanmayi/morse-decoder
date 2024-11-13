@@ -1,0 +1,74 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# PyInstaller
+# Usually these files are unnecessary since PyInstaller creates a new build/ folder each time.
+*.manifest
+*.spec
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pytest and testing cache
+.cache/
+
+# IDE and editor settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+*.cover
+*.py,cover
+.hypothesis/
+
+# Translations and data
+*.mo
+*.pot
+
+# Encrypted or translated Morse code audio files (assuming these can be regenerated)
+*.mp3
+*.wav
+
+# Google Translate API credentials, if any
+google_credentials.json
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# OS and temporary files
+*.DS_Store
+Thumbs.db
+*.tmp
+
+# Documentation
+docs/_build/
